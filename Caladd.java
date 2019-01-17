@@ -10,7 +10,7 @@ public class Caladd
 		{
 			System.out.print("\n-----------------\n");
 			System.out.print("1. Add two numbers:\n");
-			System.out.print("2. Subtract two numbers:\n");
+			System.out.print("2. Minus two numbers:\n");
 			System.out.print("3. Mulitply two numbers:\n");
 			System.out.print("4. Exit\n")
 			choice =scan.next().charAt(0);
