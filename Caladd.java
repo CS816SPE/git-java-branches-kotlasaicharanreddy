@@ -30,7 +30,7 @@ public class Caladd
 				case '3': System.out.print("Enter two numbers:\n ")
 					  a=scan.nextFloat();
 					  b=scan.nextFloat();
-			 	 	  res = a*b;
+			 	 	  res = (a*b);
 					  System.out.println("Result = "res\n);
 					  break;
 				case '4': System.exit(0);
